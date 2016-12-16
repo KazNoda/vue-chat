@@ -19,6 +19,7 @@ export default {
 
 <template>
 <div id="app">
+    <h1>Hello World</h1>
     <div class="sidebar">
         <card></card>
         <list></list>
